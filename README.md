@@ -6,7 +6,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 First-year B.Tech CSE (Data Science) student  
+- 🎓 Second-year B.Tech CSE (Data Science) student  
 - 🌱 Currently learning: **Python, Data Structures, Blockchain**  
 - 💡 Interests: **AI, Data Science, Web3, Problem Solving**  
 - 📫 Reach me at: **ananya1111shukla@gmail.com  / 0241csds140@niet.co.in**
